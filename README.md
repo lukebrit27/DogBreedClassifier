@@ -1,6 +1,6 @@
 # DogBreedClassifier
 
-This repo contains the code for a dog breed classifier application, built using popular Machine Learning Image Processing techniques. All code for building the application can be found in the dog_app.ipynb jupyter notebook. The final Machine Learning model underlying the application is model_transfer.pth.
+This repo contains the code for a dog breed classifier application, built using popular Machine Learning Image Processing techniques. The final Machine Learning model underlying the application is model_transfer.pth.
 
 There are 2 important data sets associated with helping to build this application. See below for links to these data sets.
 
